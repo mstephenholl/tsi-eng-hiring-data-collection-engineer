@@ -13,7 +13,3 @@ venv
 
 # Python
 __pycache__/
-
-# Node
-.nvmrc
-node_modules/
