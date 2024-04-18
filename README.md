@@ -1,4 +1,4 @@
-# Challenge: Ancient Tree Inventory (ATI) Analysis
+# Challenge: Ancient Tree Inventory (ATI) Extract, Transform, & Analyze
 
 ## Instructions
 
@@ -25,13 +25,13 @@ Part I of this challenge focuses on ingestion, processing, and enrichment of the
    * Count/size
    * Number of fields
 3. Normalize the data, including (but not necessarily limited to) the following:
-   * Convert dates/times to ISO 8601 format (`YYYY-MM-DDThh:mm:ss`)
-   * Convert numbers to floats with the correct number of decimal places (including trailing zeroes)
+   * Convert dates/times to ISO 8601 format (`YYYY-MM-DDThh:mm:ss`).
    * Convert comma-separated field values to lists of values.
+   * Add two fields containing a display string for the two tree measurements with the correct number of decimal places (including trailing zeroes) based on the highest precision floating point number from the source fields.
 
 ### Part II
 
-Part II of this challenge focuses on analysis and derivation of insights of the provided data using Python.
+Part II of this challenge focuses on analysis of the provided data using Python.
 
 1. Output a list of all *unique* ancient tree species. 
 2. Create histograms showing the humber of ancient trees per:
