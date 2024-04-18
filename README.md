@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This coding challenge is meant to evaluate how a software engineer specializing in data collection and processing approaches a problem and works through it. You must use Python, but can otherwise utilize any resources you would normally use to do your job (Google, Stack Overflow, documentation, etc.). The only disallowed action is looking up the exact problem (as applicable) and copy/pasting a solution. The challenge is intended to span 30-60 minutes, and the focus is not on whether you have a complete working solution in the time period, but instead on how you worked through the problem.
+This coding challenge is meant to evaluate how a software engineer specializing in data collection and processing approaches a problem and works through it. You must use Python, but can otherwise utilize any resources you would normally use to do your job (Google, Stack Overflow, documentation, etc.). The only disallowed action is looking up the exact problem and copy/pasting a solution. The challenge is intended to span 30-60 minutes, and the focus is not on whether you have a complete working solution in the time period, but instead on how you worked through the problem.
 
 ### Requirements
 
